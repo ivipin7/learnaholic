@@ -8,8 +8,6 @@ Learnaholic is an engaging, full-stack e-learning platform designed to revolutio
 - **🧩 Interactive Content**: Quizzes, games, and flashcards make learning fun and memorable.
 - **🔍 Smart Search**: Quickly find relevant courses, topics, or resources.
 - **📊 Progress Tracking**: Visualize your learning journey with detailed progress analytics.
-- **🧠 AI Quiz Generator**: Automatically creates quizzes from uploaded lecture materials.
-- **🔐 Proctoring Tools**: Tab switch detection, webcam monitoring, and more to ensure academic integrity.
 - **📚 Diverse Content Library**: Includes programming, soft skills, interview prep, and much more.
 
 ## 🛠️ Tech Stack
